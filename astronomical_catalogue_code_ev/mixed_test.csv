@@ -1,0 +1,35 @@
+galaxy,S0,I5370,00 00 06.1,-32 45 00,20,60,3,4,
+moon,test host 1,test moon,10,20,30,,,,
+star,gal1,test star,00 00 06.1,-32 49 00,200,10,Wd,7,10
+poop,test host 2,test planet,10,15,7,8,,,
+galaxy,S0,I5370,00 00 06.1,-32 45 00,20,60,3,4,
+planet,test host 2,test planet,a,15,7,8,,,
+moon,test host 1,test moon,10,20,30,,,,
+planet,test host 2,test planet,10,15,7,8,,,
+planet,test host 2,test planet,10,15,7,8,,,
+star,gal2,test star,00 00 06.1,-32 49 00,,10,Wd,7,10
+galaxy,S0,I5370,00 00 06.1,-32 45 00,20,60,3,4,
+planet,test host 2,test planet,10,15,7,8,,,
+planet,test host 2,test planet,10,15,7,8,,,
+moon,test host 1,test moon,10,20,30,,,,
+star,gal3,test star,00 00 06.1,-32 49 00,200,10,Wd,7,10
+planet,test host 2,test planet,10,15,7,8,,,
+poop,test host 2,test planet,10,15,7,8,,,
+planet,test host 2,test planet,10,15,7,8,,,
+moon,test host 1,test moon,10,20,30,,,,
+star,gal4,test star,00 00 06.1,-32 49 00,200,10,Wd,7,10
+galaxy,S0,I5370,00 00 06.1,-32 45 00,20,60,3,4,
+galaxy,S0,I5370,00 00 06.1,-32 45 00,20,60,3,4,
+star,gal5,test star,00 00 06.1,-32 49 00,200,10,Wd,7,10
+moon,test host 1,test moon,10,20,30,,,,
+moon,test host 1,test moon,10,20,,,,,
+planet,test host 2,test planet,10,15,7,8,,,
+galaxy,S0,I5370,00 00 06.1,-324,20,60,3,4,
+moon,test host 1,test moon,10,20,30,,,,
+star,gal6,test star,00 00 06.1,-32 49 00,200,10,Wd,7,10
+poop,test host 1,test moon,10,20,30,,,,
+star,gal7,test star,00 00 06.1,-32 49 00,200,10,Wd,7,10
+galaxy,S0,I5370,00 00 06.1,-32 45 00,20,,3,4,
+moon,test host 1,test moon,10,20,30,,,,
+star,gal8,test star,00 00 06.1,-32 49 00,200,10,Wd,7,10
+star,gal9,test star,00 00 06.1,-32 49 00,200,10,Wd,7,10
